@@ -1,0 +1,30 @@
+
+### Yêu cầu môi trường
+- **Python**: Phiên bản <= 3.10
+
+### Hướng dẫn cài đặt
+
+1. **Tạo virtual environment (venv):**
+   ```bash
+   python3.10 -m venv venv
+   ```
+
+2. **Kích hoạt virtual environment:**
+   - **Linux/MacOS:**
+     ```bash
+     source venv/bin/activate
+     ```
+   - **Windows:**
+     ```bash
+     venv\Scripts\activate
+     ```
+
+3. **Cài đặt các gói cần thiết từ `requirements.txt`:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Chạy ứng dụng:**
+   ```bash
+   python start.py
+   ```
