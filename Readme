@@ -1,43 +1,16 @@
-```markdown
-# Project Setup Guide
-
-## Requirements
-- **Python**: Version <= 3.10
-
-## Installation
-
-### Step 1: Create a Virtual Environment
-Run the following command to create a virtual environment:
-```bash
-python3.10 -m venv venv
+Tạo venv xong cài requirements, dùng phiên bản python <= 3.10
 ```
+python
 
-### Step 2: Activate the Virtual Environment
-- **On Linux/MacOS:**
-  ```bash
-  source venv/bin/activate
-  ```
-- **On Windows:**
-  ```bash
-  venv\Scripts\activate
-  ```
-
-### Step 3: Install Dependencies
-Use the `requirements.txt` file to install all necessary dependencies:
-```bash
 pip install -r requirements.txt
+
 ```
 
-### Step 4: Run the Application
-Start the application with the command:
-```bash
+Sau đó chạy
+
+```
+python
+
 python start.py
-```
 
-## Notes
-- Ensure Python version is **3.10 or below** before proceeding.
-- If you encounter issues, check your Python version with:
-  ```bash
-  python --version
-  ```
 ```
