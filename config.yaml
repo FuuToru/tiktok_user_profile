@@ -1,0 +1,19 @@
+# API
+API:
+  # Network Configuration
+  Host_IP: 0.0.0.0    # default IP 
+  Host_Port: 8032    # default port is 80 
+  Docs_URL: /docs    # API documentation URL 
+
+  # API Information
+  Version: V4.0.9    # API version 
+  Update_Time: 2024/09/25    # API update time 
+  Environment: Demo    # API environment
+
+  # Download Configuration
+  Download_Switch: true    # Enable download function 
+
+  # File Configuration
+  Download_Path: "./download"    # Default download directory 
+  Download_File_Prefix: "douyin.wtf_"    # Default download file prefix 
+
