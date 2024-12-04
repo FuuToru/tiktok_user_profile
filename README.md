@@ -1,4 +1,4 @@
-Để thực hiện các bước trên với Python phiên bản <= 3.10, bạn có thể làm theo các bước sau:
+Yêu cầu Python phiên bản <= 3.10:
 
 ### 1. Tạo virtual environment (venv)
 ```bash
@@ -24,5 +24,3 @@ pip install -r requirements.txt
 ```bash
 python start.py
 ```
-
-Nếu gặp lỗi liên quan đến phiên bản Python hoặc các gói, hãy kiểm tra và đảm bảo rằng bạn đang sử
