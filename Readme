@@ -1,16 +1,11 @@
-Tạo venv xong cài requirements, dùng phiên bản python <= 3.10
-```
-python
+# Project Setup Guide
 
-pip install -r requirements.txt
+## Requirements
+- **Python**: Version <= 3.10
 
-```
+## Installation
 
-Sau đó chạy
-
-```
-python
-
-python start.py
-
-```
+### Step 1: Create a Virtual Environment
+Run the following command to create a virtual environment:
+```bash
+python3.10 -m venv venv
