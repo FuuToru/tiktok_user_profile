@@ -3,3 +3,4 @@ logs/
 Dockerfile
 docker-compose.yml
 start.sh
+api/
